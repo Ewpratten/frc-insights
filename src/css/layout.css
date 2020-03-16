@@ -1,0 +1,8 @@
+.glue {
+    white-space: nowrap;
+}
+
+.navbar {
+    position: absolute!important;
+    bottom: 0;
+}
